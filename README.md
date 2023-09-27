@@ -15,7 +15,8 @@ Project to randomly generate a password that meets certain criteria SO THAT I ca
 * [Questions](#questions)
 * [License](#license)
 # Screenshot
-![image](https://github.com/Lexabexa/Password-Generator2023/assets/130160635/a29a9ef5-a5b3-421d-ba1a-125e6145a668)
+![image](https://github.com/Lexabexa/Password-Generator2023/assets/130160635/33d29900-8e19-45d1-a3a7-e1ac90e4bbce)
+
 
 # Link
 # Video
