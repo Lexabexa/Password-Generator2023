@@ -1,5 +1,5 @@
 # Password-Generator2023
-Create a Password Generator using HTML and CSS powered by JavaScript code
+Created a Password Generator using HTML and CSS powered by JavaScript code
 
 # Description
 
