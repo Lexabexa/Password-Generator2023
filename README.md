@@ -7,10 +7,6 @@ Project to randomly generate a password that meets certain criteria SO THAT I ca
 * [TableOfContents](#tableofcontents)
 * [Screenshot](#Screenshot)
 * [Link](#Link)
-* [Video](#Video)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Tests](#tests)
 * [Contributing](#contributing)
 * [Questions](#questions)
 * [License](#license)
@@ -19,10 +15,8 @@ Project to randomly generate a password that meets certain criteria SO THAT I ca
 
 
 # Link
-# Video
-# Installation
-# Usage
-# Tests
+[Deployed Webpage](https://lexabexa.github.io/Password-Generator2023/)
+
 # Contributing
 [UC Berkeley](https://courses.bootcampspot.com/courses/3634/external_tools/249)
 
